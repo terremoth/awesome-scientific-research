@@ -26,3 +26,4 @@ The main idea is to map ```free``` scientific content easy to search and find ov
 - [Wiley Online Library](https://onlinelibrary.wiley.com/)
 - [Directory of Open Access Journals](https://doaj.org/)
 - [Science Open - Research+Publishing network](https://www.scienceopen.com/)
+- [International Journal of Science and Research](https://www.ijsr.net/)
