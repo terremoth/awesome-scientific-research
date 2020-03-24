@@ -1,7 +1,7 @@
 # awesome-scientific-research
 Free Scientific Research Sites and Repositories for scientific journals, articles, papers, monographs, dissertation and thesis 
 
-The main idea is to map ```free``` scientific content easy to search and find over the web available in common formats: pdf, epub, mobi and html;
+The main idea is to map ```free``` scientific content easy to search and find over the web available in common formats: pdf, epub, mobi and html. This project started as a litte way to help the fight the war against COVID-19 virus;
 
 ## List
 - [Scielo - The Scientific Library](https://scielo.org/)
