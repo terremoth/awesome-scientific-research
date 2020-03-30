@@ -29,4 +29,7 @@ The main idea is to map ```free``` scientific content easy to search and find ov
 - [Science Open - Research+Publishing network](https://www.scienceopen.com/)
 - [International Journal of Science and Research](https://www.ijsr.net/)
 - [SSRN](https://papers.ssrn.com/)
+
+### Other resources
+- [Google Play Top Selling Free Books](https://play.google.com/store/books/collection/topselling_free)
 - [DominioPublico.gov.br](http://www.dominiopublico.gov.br/pesquisa/PesquisaObraForm.jsp)
