@@ -17,7 +17,7 @@ The main idea is to map ```free``` scientific content easy to search and find ov
 - [Pubmed - US National library of Medicine](https://www.ncbi.nlm.nih.gov/pubmed/)
 - [iEEExplore Digital Library open access](https://ieeexplore.ieee.org/search/searchresult.jsp?openAccess=true)
 - [Eric Institute of Education Sciences](https://eric.ed.gov/)
-- [NASA - Scientific and Technica Information Program](https://www.sti.nasa.gov/)
+- [NASA - Scientific and Technical Information Program](https://www.sti.nasa.gov/)
 - [Harvard Astrophysics data system](https://ui.adsabs.harvard.edu/)
 - [CiteSeerX](http://citeseerx.ist.psu.edu/)
 - [PLOS - Public Library of Science](https://journals.plos.org/)
