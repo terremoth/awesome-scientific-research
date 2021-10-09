@@ -1,4 +1,9 @@
 # awesome-scientific-research
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![license](https://img.shields.io/github/license/terremoth/awesome-scientific-research.svg)](/LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors/terremoth/awesome-scientific-research.svg)](https://github.com/terremoth/awesome-scientific-research/graphs/contributors)
+
 Free Scientific Research Sites and Repositories for scientific journals, articles, papers, monographs, dissertation and thesis 
 
 The main idea is to map ```free``` scientific content easy to search and find over the web available in common formats: pdf, epub, mobi and html. This project started as a litte way to help the fight the war against COVID-19 virus;
