@@ -35,6 +35,9 @@ The main idea is to map ```free``` scientific content easy to search and find ov
 - [International Journal of Science and Research](https://www.ijsr.net/)
 - [SSRN](https://papers.ssrn.com/)
 
+### Research search APIs
+- [BGPT - Structured scientific evidence search (MCP + REST)](https://bgpt.pro/mcp/)
+
 ### Other resources
 - [Google Play Top Selling Free Books](https://play.google.com/store/books/collection/topselling_free)
 - [DominioPublico.gov.br](http://www.dominiopublico.gov.br/pesquisa/PesquisaObraForm.jsp)
